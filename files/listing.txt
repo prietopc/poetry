@@ -1,9 +1,8 @@
-total 0
+total 9001
 drwxr-xr-x@   8 tlberglund  staff   272 May 13 15:16 Box Documents
 drwx------+   5 tlberglund  staff   170 May 26 21:26 Desktop
 drwx------+  49 tlberglund  staff  1666 Apr  8 15:52 Documents
 drwx------+  48 tlberglund  staff  1632 May 26 21:16 Downloads
-drwx------@  29 tlberglund  staff   986 May 19 22:03 Dropbox
 drwx------@  58 tlberglund  staff  1972 Mar 17 12:42 Library
 drwx------+  29 tlberglund  staff   986 May 26 21:14 Movies
 drwx------+   9 tlberglund  staff   306 Sep 26  2012 Music
@@ -15,7 +14,6 @@ drwxr-xr-x+   3 tlberglund  staff   102 Mar 17 09:21 Sites
 drwxr-xr-x   12 tlberglund  staff   408 Dec  2 00:28 Tools
 drwxr-xr-x  116 tlberglund  staff  3944 May 18 12:43 code
 drwxr-xr-x    3 tlberglund  staff   102 Aug 10  2012 eclipse-workspace
-drwxr-xr-x    4 tlberglund  staff   136 Jul 26  2012 emacs-starter-kit.git
 drwxr-xr-x   39 tlberglund  staff  1326 Apr  6 14:59 github
 drwxr-xr-x    6 tlberglund  staff   204 Jul 26  2012 poems
 drwxr-xr-x   19 tlberglund  staff   646 May 27 10:23 scripts
